@@ -3,8 +3,8 @@
 ## I'm on my last year of my bachelors in Information Systems on FIAP!!
 
 - 🌱 I’m currently learning everything i can 🤣
-- 👯 I’m looking to collaborate with other devs to gain experience
-- 🥅 2022 Goals: Update this profile with some of my paralel projects
+- 👯 I’m actually working on Management Solutions and looking to colaborate with other people to evolve my skills
+- 🥅 2022 Goals: Update this profile with some of my paralel projects & conclude all incomplete projects.
 
 ### Connect with me:
 
