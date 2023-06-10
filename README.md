@@ -11,7 +11,7 @@
 ## I recently graduated on my bachelors in Information Sistems !!
 
 - 🌱 I’m currently learning everything i can, but im focusing in cloud solutions and machine learning projects.
-- 👯 I’m actually working as an Data Engeneer at Banco Bradesco and looking to colaborate with other people to evolve my skills
+- 👯 I’m actually working as a Data Engeneer at Banco Bradesco and looking to colaborate with other people to evolve my skills
 - 🥅 2022 Goals: Update this profile with some of my paralel projects & conclude all incomplete projects.
 
 ### Connect with me:
