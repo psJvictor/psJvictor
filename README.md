@@ -3,7 +3,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rotciV1&theme=dracula&hide_border=true&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rotciV1&theme=dracula&hide_border=true&card_width=900&align=center)](https://git.io/streak-stats)
 
 
 
