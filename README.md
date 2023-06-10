@@ -1,5 +1,13 @@
 ### Hi there, my name is João Victor 👋
 
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rotciV1)](https://git.io/streak-stats)
+
+
+
+
 ## I recently graduated on my bachelors in Information Sistems !!
 
 - 🌱 I’m currently learning everything i can, but im focusing in cloud solutions and machine learning projects.
