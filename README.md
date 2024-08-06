@@ -10,13 +10,12 @@
 
 ## I recently graduated on my bachelors in Information Sistems !!
 
-- 🌱 I’m currently learning everything i can, but im focusing in cloud solutions and machine learning projects.
-- 👯 I’m actually working as a Data Engeneer at Banco Bradesco and looking to colaborate with other people to evolve my skills
-- 🥅 2022 Goals: Update this profile with some of my paralel projects & conclude all incomplete projects.
+- 🌱 I’m learning everything i can, but focusing on machine learning, pyton & spark data engineering and typescript solutions.
+- 👯 Currently working as a Software Developer at Comunix LTDA and looking to colaborate with other people to evolve my skills.
+- 🥅 2024 Goals: Update this profile with some of my paralel projects & add some new ones, reach a 200 day commit streak.
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
